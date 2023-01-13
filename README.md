@@ -1,4 +1,6 @@
-# Projeto Pessoal (em andamento), feito em conjunto com o BackEnd
+# Post-It FrontEnd (em andamento)
+
+Feito em conjunto com o [Post-It-Back](https://github.com/AlexSChaves/post-it-back)
 
 ## Script 
 
