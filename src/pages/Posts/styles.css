@@ -1,0 +1,48 @@
+.post-area {
+	height: 80vh;
+	margin: 40px 100px;
+	padding: 10px;
+	background-color: #fff;
+	border-radius: 4px;
+	display: flex;
+	/* align-items: center; */
+	justify-content: center;
+	flex-wrap: wrap;
+	overflow: auto;
+}
+
+.post {
+	width: 200px;
+	height: 200px;
+	color: #000;
+	background-color: #ccc;
+	border: 1px solid #000;
+	margin: 15px 5px;
+	padding: 20px;
+	border-radius: 5px;
+	display: flex;
+	flex-direction: column;
+	/* overflow: auto; */
+	word-spacing: normal;
+	word-break: break-word;
+}
+
+.post .button-area {
+	/* border: 1px solid red; */
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	margin-bottom: 20px;
+}
+
+.post button {
+	background-color: red;
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+}
